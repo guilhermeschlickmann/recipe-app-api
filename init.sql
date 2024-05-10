@@ -1,2 +1,2 @@
 -- init.sql
-CREATE DATABASE devdb;
+CREATE DATABASE IF NOT EXISTS devdb;
